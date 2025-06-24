@@ -73,10 +73,11 @@ Required Python libraries:
 pip install pandas numpy scikit-learn torch matplotlib seaborn
 
 Execution Steps
-Clone the Repository:
 
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
-cd YOUR_REPO_NAME
+Clone the Repository:
+```bash
+git clone https://github.com/kaamchor07/Neural-Network-Income-Classifier-PyTorch.git
+cd Neural-Network-Income-Classifier-PyTorch
 
 Launch Jupyter:
 
